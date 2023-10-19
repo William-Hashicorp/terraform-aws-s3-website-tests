@@ -1,3 +1,7 @@
+# Optional helper modules, which you can use to create test-specific resources 
+# and data sources outside of your main configuration
+
+
 terraform {
   required_providers {
     random = {
